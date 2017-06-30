@@ -1,0 +1,13 @@
+{
+  "name": "happyendik/yii2-hello",
+  "description": "Yii2 test extension, which say hello",
+  "homepage": "https://github.com/happyendik/yii2-hello",
+  "type": "yii2-extension",
+  "license": "mit",
+  "authors": [
+    {
+    }
+  ],
+  "require": {
+  }
+}
